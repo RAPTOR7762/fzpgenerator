@@ -12,7 +12,7 @@ data.py
 from datetime import date
 
 
-"""Constants - DO NOT TOUCH ANY VARIABLES HERE"""
+"""Constants & Variables - DO NOT TOUCH ANY VARIABLES HERE"""
 
 today = date.today()
 
@@ -74,4 +74,5 @@ noOfCons = 2 ### No. of connectors
 # Advanced
 
 bendableLegs = False
+
 allMale      = True
